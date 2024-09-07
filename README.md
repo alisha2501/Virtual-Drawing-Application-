@@ -27,12 +27,12 @@ pip install opencv-python mediapipe numpy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/virtual-drawing-app.git
-   cd virtual-drawing-app
+   git clone https://github.com/alisha2501/virtual-drawing-app.git
+   cd virtual-drawing-application
    ```
 
 2. Run the script:
    ```bash
    python virtual_drawing.py
    ```
-
+3. Use the webcam to detect hand gestures. Move your hand in front of the camera to start drawing on the screen. Use the top bar to select different colors or clear the canvas
